@@ -64,8 +64,8 @@ class _PKCardSkeletonState extends State<PKCardSkeleton>
 
   @override
   void dispose() {
-    super.dispose();
     _controller.dispose();
+    super.dispose();
   }
 
   @override
@@ -220,8 +220,8 @@ class _PKDarkCardSkeletonState extends State<PKDarkCardSkeleton>
 
   @override
   void dispose() {
-    super.dispose();
     _controller.dispose();
+    super.dispose();
   }
 
   @override
@@ -400,8 +400,8 @@ class _PKCardProfileSkeletonState extends State<PKCardProfileSkeleton>
 
   @override
   void dispose() {
-    super.dispose();
     _controller.dispose();
+    super.dispose();
   }
 
   @override
@@ -548,8 +548,8 @@ class _PKDarkCardProfileSkeletonState extends State<PKDarkCardProfileSkeleton>
 
   @override
   void dispose() {
-    super.dispose();
     _controller.dispose();
+    super.dispose();
   }
 
   @override
@@ -693,8 +693,8 @@ class _PKCardPageSkeletonState extends State<PKCardPageSkeleton>
 
   @override
   void dispose() {
-    super.dispose();
     _controller.dispose();
+    super.dispose();
   }
 
   @override
@@ -783,8 +783,8 @@ class _PKDarkCardPageSkeletonState extends State<PKDarkCardPageSkeleton>
 
   @override
   void dispose() {
-    super.dispose();
     _controller.dispose();
+    super.dispose();
   }
 
   @override
