@@ -1,7 +1,6 @@
 name: pk_skeleton
 description: A Facebook & Twitter Like Card Loading Shimmer Skeleton Library.
 version: 0.0.2
-author: Pawan Kumar<mtechviral@gmail.com>
 homepage: https://github.com/iampawan/PKSkeleton
 
 environment:
